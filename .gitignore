@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.h5
+*.npy
+*.pyc
+*.spydata
+*.p
+nohup.out
